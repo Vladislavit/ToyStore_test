@@ -52,7 +52,7 @@ h1,h2,h3,h4,h5,h6{
 
 }
 
-.btn.btn-warning {
+    .btn.btn-warning {
     margin-right: 10px; /* Збільшуємо відстань зправа */
     margin-left: -10px; /* Зсуваємо вліво */
 }
